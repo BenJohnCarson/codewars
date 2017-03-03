@@ -3,5 +3,5 @@ def is_polydivisible(s, b)
 end
 
 def get_polydivisible(n, b)
-  #your code here
+
 end
